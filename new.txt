@@ -1,0 +1,35 @@
+    1  ls
+    2  pwd
+    3  clear
+    4  ls
+    5  cd 'Git Hub'
+    6  cd ./
+    7  cd ..clear
+    8  cd ../
+    9  mkdir github
+   10  ls
+   11  ls
+   12  clear
+   13  ls
+   14  pwd
+   15  ls
+   16  rmdir 'Git hub'
+   17  clear
+   18  ls
+   19  cd github
+   20  touch f1.py,f2.txt,f3.pdf
+   21  touch f1.py f3.txt
+   22  ls
+   23  touch f1.py f2.txt f3.pdf
+   24  ls
+   25  nano f1.py
+   26  python f1.py
+   27  nano f2.txt
+   28  cat f2.tx
+   29  cat f2.tx
+   30  cat f2.txt
+   31  clear
+   32  ls
+   33  cat f1.py
+   34  history
+   35  history > new.txt
